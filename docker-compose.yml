@@ -1,0 +1,25 @@
+version: "3.3"
+
+services:
+  backend:
+    build:
+      context: .
+    volumes:
+      - .:/usr/src/code
+    ports:
+      - 8000:8000
+    command: bash -c "cd Backend&& python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+
+  bot:
+    build:
+      context: .
+    environment:
+      - DJANGO_HOST=http://backend
+    command: bash -c "cd Bot && python3 bot.py"
+    depends_on:
+      - backend
+
+  test:
+    build:
+      context: .
+    command: bash -c "cd Backend && python manage.py test"

@@ -1,0 +1,258 @@
+[2022-03-27 16:31:05]:INFO: Bot test started
+[2022-03-27 16:31:05]:INFO: Initializing Bot...
+[2022-03-27 16:31:05]:INFO: Bot initialized
+[2022-03-27 16:31:05]:INFO: Creating users...
+[2022-03-27 16:31:05]:INFO: User user0 created: Id: 222; Username: user0; First Name: First name #0; Last Name: Last name #0; Email: email#0@gmail.com; Password: password#0; Posts: []; Access token: None
+[2022-03-27 16:31:05]:INFO: User user1 created: Id: 223; Username: user1; First Name: First name #1; Last Name: Last name #1; Email: email#1@gmail.com; Password: password#1; Posts: []; Access token: None
+[2022-03-27 16:31:05]:INFO: User user2 created: Id: 224; Username: user2; First Name: First name #2; Last Name: Last name #2; Email: email#2@gmail.com; Password: password#2; Posts: []; Access token: None
+[2022-03-27 16:31:05]:INFO: User user3 created: Id: 225; Username: user3; First Name: First name #3; Last Name: Last name #3; Email: email#3@gmail.com; Password: password#3; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user4 created: Id: 226; Username: user4; First Name: First name #4; Last Name: Last name #4; Email: email#4@gmail.com; Password: password#4; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user5 created: Id: 227; Username: user5; First Name: First name #5; Last Name: Last name #5; Email: email#5@gmail.com; Password: password#5; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user6 created: Id: 228; Username: user6; First Name: First name #6; Last Name: Last name #6; Email: email#6@gmail.com; Password: password#6; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user7 created: Id: 229; Username: user7; First Name: First name #7; Last Name: Last name #7; Email: email#7@gmail.com; Password: password#7; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user8 created: Id: 230; Username: user8; First Name: First name #8; Last Name: Last name #8; Email: email#8@gmail.com; Password: password#8; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: User user9 created: Id: 231; Username: user9; First Name: First name #9; Last Name: Last name #9; Email: email#9@gmail.com; Password: password#9; Posts: []; Access token: None
+[2022-03-27 16:31:06]:INFO: Users created
+[2022-03-27 16:31:06]:INFO: Authorizing users...
+[2022-03-27 16:31:07]:INFO: User user0 authorized. access token: 5e2f5d2f75970bd7b9252f50e9ba2acc3813461f
+[2022-03-27 16:31:07]:INFO: User user1 authorized. access token: 57b079d8607ab0fd0c660d0a85c8e050b6ea51a0
+[2022-03-27 16:31:07]:INFO: User user2 authorized. access token: 2c02eb4dfe248f0be2ceb95a524c230194bd3837
+[2022-03-27 16:31:07]:INFO: User user3 authorized. access token: 27edf2bba9179700fb46bdb8c18ab5ea47032caa
+[2022-03-27 16:31:07]:INFO: User user4 authorized. access token: bc00040891095ef7a9427559ceea505cabeccf58
+[2022-03-27 16:31:07]:INFO: User user5 authorized. access token: c0706d34ea2637879ac888bc3364e7a4296f6d48
+[2022-03-27 16:31:07]:INFO: User user6 authorized. access token: 1f83e79e157452d81d9e0316e482bf13b63c5c8d
+[2022-03-27 16:31:08]:INFO: User user7 authorized. access token: f70cd3227dcf99b1dcd61f771cf1e43dbf25ce54
+[2022-03-27 16:31:08]:INFO: User user8 authorized. access token: 1171bad0636b413f80977afa9c531ab3d92dc17a
+[2022-03-27 16:31:08]:INFO: User user9 authorized. access token: cd77f729be29536cdf987933a196c4ee4b91bd17
+[2022-03-27 16:31:08]:INFO: Users authorized
+[2022-03-27 16:31:08]:INFO: Creating posts...
+[2022-03-27 16:31:08]:INFO: user0 creates post: Id: 1870; Author id: 222; Text: user0's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user0 creates post: Id: 1871; Author id: 222; Text: user0's post text #1; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user0 creates post: Id: 1872; Author id: 222; Text: user0's post text #2; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1873; Author id: 223; Text: user1's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1874; Author id: 223; Text: user1's post text #1; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1875; Author id: 223; Text: user1's post text #2; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1876; Author id: 223; Text: user1's post text #3; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1877; Author id: 223; Text: user1's post text #4; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user1 creates post: Id: 1878; Author id: 223; Text: user1's post text #5; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user2 creates post: Id: 1879; Author id: 224; Text: user2's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user2 creates post: Id: 1880; Author id: 224; Text: user2's post text #1; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user3 creates post: Id: 1881; Author id: 225; Text: user3's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1882; Author id: 226; Text: user4's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1883; Author id: 226; Text: user4's post text #1; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1884; Author id: 226; Text: user4's post text #2; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1885; Author id: 226; Text: user4's post text #3; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1886; Author id: 226; Text: user4's post text #4; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1887; Author id: 226; Text: user4's post text #5; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1888; Author id: 226; Text: user4's post text #6; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1889; Author id: 226; Text: user4's post text #7; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1890; Author id: 226; Text: user4's post text #8; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1891; Author id: 226; Text: user4's post text #9; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1892; Author id: 226; Text: user4's post text #10; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1893; Author id: 226; Text: user4's post text #11; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1894; Author id: 226; Text: user4's post text #12; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user4 creates post: Id: 1895; Author id: 226; Text: user4's post text #13; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user5 creates post: Id: 1896; Author id: 227; Text: user5's post text #0; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user5 creates post: Id: 1897; Author id: 227; Text: user5's post text #1; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user5 creates post: Id: 1898; Author id: 227; Text: user5's post text #2; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user5 creates post: Id: 1899; Author id: 227; Text: user5's post text #3; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:08]:INFO: user5 creates post: Id: 1900; Author id: 227; Text: user5's post text #4; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1901; Author id: 227; Text: user5's post text #5; Publication date: 2022-03-27 13:31:08; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1902; Author id: 227; Text: user5's post text #6; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1903; Author id: 227; Text: user5's post text #7; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1904; Author id: 227; Text: user5's post text #8; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1905; Author id: 227; Text: user5's post text #9; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1906; Author id: 227; Text: user5's post text #10; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1907; Author id: 227; Text: user5's post text #11; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1908; Author id: 227; Text: user5's post text #12; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1909; Author id: 227; Text: user5's post text #13; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user5 creates post: Id: 1910; Author id: 227; Text: user5's post text #14; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user6 creates post: Id: 1911; Author id: 228; Text: user6's post text #0; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user6 creates post: Id: 1912; Author id: 228; Text: user6's post text #1; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user6 creates post: Id: 1913; Author id: 228; Text: user6's post text #2; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1914; Author id: 229; Text: user7's post text #0; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1915; Author id: 229; Text: user7's post text #1; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1916; Author id: 229; Text: user7's post text #2; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1917; Author id: 229; Text: user7's post text #3; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1918; Author id: 229; Text: user7's post text #4; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1919; Author id: 229; Text: user7's post text #5; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1920; Author id: 229; Text: user7's post text #6; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1921; Author id: 229; Text: user7's post text #7; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1922; Author id: 229; Text: user7's post text #8; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1923; Author id: 229; Text: user7's post text #9; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1924; Author id: 229; Text: user7's post text #10; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1925; Author id: 229; Text: user7's post text #11; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1926; Author id: 229; Text: user7's post text #12; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1927; Author id: 229; Text: user7's post text #13; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user7 creates post: Id: 1928; Author id: 229; Text: user7's post text #14; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1929; Author id: 230; Text: user8's post text #0; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1930; Author id: 230; Text: user8's post text #1; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1931; Author id: 230; Text: user8's post text #2; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1932; Author id: 230; Text: user8's post text #3; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1933; Author id: 230; Text: user8's post text #4; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1934; Author id: 230; Text: user8's post text #5; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1935; Author id: 230; Text: user8's post text #6; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1936; Author id: 230; Text: user8's post text #7; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user8 creates post: Id: 1937; Author id: 230; Text: user8's post text #8; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1938; Author id: 231; Text: user9's post text #0; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1939; Author id: 231; Text: user9's post text #1; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1940; Author id: 231; Text: user9's post text #2; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1941; Author id: 231; Text: user9's post text #3; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1942; Author id: 231; Text: user9's post text #4; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1943; Author id: 231; Text: user9's post text #5; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1944; Author id: 231; Text: user9's post text #6; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1945; Author id: 231; Text: user9's post text #7; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1946; Author id: 231; Text: user9's post text #8; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1947; Author id: 231; Text: user9's post text #9; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1948; Author id: 231; Text: user9's post text #10; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1949; Author id: 231; Text: user9's post text #11; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:09]:INFO: user9 creates post: Id: 1950; Author id: 231; Text: user9's post text #12; Publication date: 2022-03-27 13:31:09; Likes: []
+[2022-03-27 16:31:10]:INFO: user9 creates post: Id: 1951; Author id: 231; Text: user9's post text #13; Publication date: 2022-03-27 13:31:10; Likes: []
+[2022-03-27 16:31:10]:INFO: user9 creates post: Id: 1952; Author id: 231; Text: user9's post text #14; Publication date: 2022-03-27 13:31:10; Likes: []
+[2022-03-27 16:31:10]:INFO: Posts created
+[2022-03-27 16:31:10]:INFO: Liking posts...
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1879 and author id 224
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1934 and author id 230
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1928 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1926 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1915 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1877 and author id 223
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1943 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1892 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1948 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1939 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1898 and author id 227
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1901 and author id 227
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1885 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1880 and author id 224
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1941 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1927 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1875 and author id 223
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1906 and author id 227
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1870 and author id 222
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1914 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1888 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1889 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1929 and author id 230
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1911 and author id 228
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1907 and author id 227
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1884 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1897 and author id 227
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1944 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1878 and author id 223
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1917 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1935 and author id 230
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1923 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1873 and author id 223
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1890 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1950 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1938 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1937 and author id 230
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1952 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1922 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1891 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1876 and author id 223
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1945 and author id 231
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1887 and author id 226
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1916 and author id 229
+[2022-03-27 16:31:10]:INFO: user3(id 225) likes post with id 1933 and author id 230
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1908 and author id 227
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1886 and author id 226
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1920 and author id 229
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1874 and author id 223
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1896 and author id 227
+[2022-03-27 16:31:11]:INFO: user3(id 225) likes post with id 1931 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1937 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1936 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1945 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1883 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1946 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1925 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1909 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1892 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1943 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1923 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1884 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1917 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1890 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1882 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1949 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1903 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1904 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1908 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1941 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1893 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1944 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1881 and author id 225
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1934 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1895 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1951 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1950 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1920 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1902 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1919 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1894 and author id 226
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1918 and author id 229
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1900 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1932 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1907 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1901 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1942 and author id 231
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1899 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1935 and author id 230
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1897 and author id 227
+[2022-03-27 16:31:11]:INFO: user2(id 224) likes post with id 1940 and author id 231
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1914 and author id 229
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1910 and author id 227
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1898 and author id 227
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1915 and author id 229
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1939 and author id 231
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1930 and author id 230
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1912 and author id 228
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1928 and author id 229
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1948 and author id 231
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1952 and author id 231
+[2022-03-27 16:31:12]:INFO: user2(id 224) likes post with id 1924 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1899 and author id 227
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1952 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1909 and author id 227
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1926 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1905 and author id 227
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1927 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1924 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1923 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1941 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1916 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1917 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1944 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1942 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1911 and author id 228
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1949 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1913 and author id 228
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1950 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1945 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1928 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1921 and author id 229
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1943 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1946 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1951 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1940 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1939 and author id 231
+[2022-03-27 16:31:12]:INFO: user0(id 222) likes post with id 1947 and author id 231
+[2022-03-27 16:31:12]:INFO: user6(id 228) likes post with id 1870 and author id 222
+[2022-03-27 16:31:12]:INFO: user6(id 228) likes post with id 1872 and author id 222
+[2022-03-27 16:31:12]:INFO: user6(id 228) likes post with id 1871 and author id 222
+[2022-03-27 16:31:12]:INFO: Posts liked
+[2022-03-27 16:31:12]:INFO: Deleting users...
+[2022-03-27 16:31:12]:INFO: User user3 deleted
+[2022-03-27 16:31:12]:INFO: User user2 deleted
+[2022-03-27 16:31:12]:INFO: User user0 deleted
+[2022-03-27 16:31:12]:INFO: User user6 deleted
+[2022-03-27 16:31:12]:INFO: User user1 deleted
+[2022-03-27 16:31:12]:INFO: User user8 deleted
+[2022-03-27 16:31:13]:INFO: User user4 deleted
+[2022-03-27 16:31:13]:INFO: User user5 deleted
+[2022-03-27 16:31:13]:INFO: User user7 deleted
+[2022-03-27 16:31:13]:INFO: User user9 deleted
+[2022-03-27 16:31:13]:INFO: Users deleted
+[2022-03-27 16:31:13]:INFO: Bot test finished
