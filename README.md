@@ -50,6 +50,7 @@ This is bot which, with the help of API requests, perform several manipulations 
 ### Logs
 Every action is logged to console and `bot.log` file
 ### Technologies used:
++ Django, DRF
 + requests module to send API requests
 ## Docker
 ### How to install
